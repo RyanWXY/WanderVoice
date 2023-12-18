@@ -2,6 +2,34 @@
 
 ## PART 1: Front End
 
+### 1. Project setup
+
+```
+npm install
+```
+
+### 2. Compile and hot-reload for development
+
+```
+npm run serve
+```
+
+### 3. Compile and minify for production
+
+```
+npm run build
+```
+
+### 4. Lint and fix files
+
+```
+npm run lint
+```
+
+### 5. Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ## PART 2: Lambda Functions
 
 ### 1. ``signup_service.py``
